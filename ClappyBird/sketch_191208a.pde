@@ -1,6 +1,5 @@
-/* CS276 - Final Project
- FlappyBird, but it moves based on CLAPS!
- Eddie Chan & JuHoon Park */
+/* FlappyBird, but it moves based on CLAPS!
+   Eddie Chan & JuHoon Park */
 
 import processing.video.*;
 import ddf.minim.*;
